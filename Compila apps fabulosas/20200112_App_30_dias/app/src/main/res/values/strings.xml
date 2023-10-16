@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">30 dias de recetas</string>
+    <string name="comida1">Arroz a lo pobre</string>
+    <string name="comida1_description">
+        Comenzamos con un delicioso arroz que es perfecto para llevar a cualquier lado. Su combinación de col, bacon y carne de cerdo es inmejorable
+    </string>
+    <string name="comida1_day">Dia 1</string>
+    <string name="comida2">Pimientos rellenos de gambas</string>
+    <string name="comida2_description">
+        Una receta rica, clásica y sencilla para disfrutarla en cualquier momento. Los puedes rellenar de muchos ingredientes como bacalao, queso, carne, pero aquí te proponemos una combinación que no defraudará.
+    </string>
+    <string name="comida2_day">Dia 2</string>
+    <string name="comida3">Lentejas</string>
+    <string name="comida3_description">
+        A pesar de que ya comienza el buen tiempo y dejamos atrás el frío, un plato de cuchara nunca viene mal. Por ello, las lentejas se convierten en una receta imprescindible que es perfecta para llevar a cualquier lado y encima están riquísimas.
+    </string>
+    <string name="comida3_day">Dia 3</string>
+    <string name="comida4">Lasaña de carne y verduras</string>
+    <string name="comida4_description">
+        A pesar de que ya comienza el buen tiempo y dejamos atrás el frío, un plato de cuchara nunca viene mal. Por ello, las lentejas se convierten en una receta imprescindible que es perfecta para llevar a cualquier lado y encima están riquísimas.
+    </string>
+    <string name="comida4_day">Dia 4</string>
+    <string name="comida5">Crema de champiñones</string>
+    <string name="comida5_description">
+        Abrimos el melón de las cremas y una de las más ligeras y saludables que te puedes llevar a la boca es esta crema de champiñones. Si lo acompañas con un poco de pan tostado triunfarás.
+    </string>
+    <string name="comida5_day">Dia 5</string>
+    <string name="comida6">Albóndigas de cerdo al curry</string>
+    <string name="comida6_description">
+        Si quieres llevar algo diferente al trabajo prueba estas ricas albóndigas con curry. La especia le da un toque único y junto con un poco de arroz, querrás comer esto todos los días.
+    </string>
+    <string name="comida6_day">Dia 6</string>
+    <string name="comida7">Pastel de merluza</string>
+    <string name="comida7_description">
+        El pastel de merluza es un clásico en las celebraciones, pero también puedes prepararlo para tu día a día. Al comerse frío, es una de las mejores opciones para llevar a cualquier lado y además, es muy saludable.
+    </string>
+    <string name="comida7_day">Dia 7</string>
+    <string name="comida8">Ensalada césar casera</string>
+    <string name="comida8_description">
+        A pesar de que ya comienza el buen tiempo y dejamos atrás el frío, un plato de cuchara nunca viene mal. Por ello, las lentejas se convierten en una receta imprescindible que es perfecta para llevar a cualquier lado y encima están riquísimas.
+    </string>
+    <string name="comida8_day">Dia 8</string>
+    <string name="comida9">Merluza con gambas en salsa de zanahoria</string>
+    <string name="comida9_description">
+        La merluza es un pescado muy versátil con el que podemos preparar diferentes y deliciosas recetas. En esta ocasión te proponemos merluza con gambas en salsa de zanahoria con la que seguro que triunfarás.
+    </string>
+    <string name="comida9_day">Dia 9</string>
+    <string name="comida10">Pollo asado con patatas</string>
+    <string name="comida10_description">
+        Un plato típico en cualquier casa española y que es excepcional para consumir en cualquier momento. Es de esos platos que gustan a todo el mundo gracias a su sencillez, pero es ahí donde reside toda su grandeza. Además, su versatilidad hace que puedes cocinarlo con cualquier aderezo.
+    </string>
+    <string name="comida10_day">Dia 10</string>
+
+
+
+    <string name="comida11">Ensaladilla rusa</string>
+    <string name="comida11_description">
+        La ensaladilla rusa es de esas recetas tan famosas que en cada casa se hace de una manera diferente. Muy rara vez coinciden dos recetas así con los mismos ingredientes, pero lo que si es común es lo rica que está. Además, es uno de los platos predilectos para llevar a un pícnic o comida con amigos, y a la oficina también.
+    </string>
+    <string name="comida11_day">Dia 11</string>
+    <string name="comida12">Tortilla de alcachofas</string>
+    <string name="comida12_description">
+        Nadie dijo que la tortilla era solo de patata. Puedes hacerla de mil formas diferentes y con un montón de ingredientes, pero hoy traemos esta rica tortilla de alcachofas.
+    </string>
+    <string name="comida12_day">Dia 12</string>
+    <string name="comida13">Pasta alla Norma</string>
+    <string name="comida13_description">
+        La pasta alla Norma es una de las recetas más tradicionales del recetario siciliano. Es una forma diferente de preparar unos macarrones acompañados de tomate, berenjena y ricotta, y en tan solo 15 minutos.
+    </string>
+    <string name="comida13_day">Dia 13</string>
+    <string name="comida14">Solomillo con salsa de queso</string>
+    <string name="comida14_description">
+        Esta receta de tan solo tres ingredientes es facilísima y muy rica. Tan solo necesitarás una bandeja de medallones de solomillo, leche y queso brie.
+    </string>
+    <string name="comida14_day">Dia 14</string>
+    <string name="comida15">Patatas a la importancia</string>
+    <string name="comida15_description">
+         El ingrediente principal de este rico plato tradicional es la patata, la cual ha pasado en este plato de ser una simple guarnición que acompaña a una carne o un pescado, a convertirse en un plato contundente. Además, su sencillez e increíble sabor hacen que sea una perfecta opción si no sabes qué preparar.
+    </string>
+    <string name="comida15_day">Dia 15</string>
+    <string name="comida16">Quiche casero de verduras y queso</string>
+    <string name="comida16_description">
+        La quiché se puede rellenar de prácticamente cualquier cosa, aunque las más famosas son las de carne y verduras. Nosotros presentamos un relleno hecho con verduras como espinacas, puerros o zanahorias, y con un toque especial, un poco de queso. Toma nota de como hacerlo.
+    </string>
+    <string name="comida16_day">Dia 16</string>
+    <string name="comida17">Caballa en escabeche</string>
+    <string name="comida17_description">
+        El escabeche es un método de conservación que se basa en el uso del vinagre, por ello es muy buena opción para cuando tienes que llevar comida. Además, la callaba es uno de los mejores pescados para escabechar gracias a que es azul, por lo que la combinación es perfecta.
+    </string>
+    <string name="comida17_day">Dia 17</string>
+    <string name="comida18">Espaguetis con gambas al ajillo y verduras</string>
+    <string name="comida18_description">
+        En esta receta convertimos al tradicional aperitivo en la guarnición de la pasta. Una manera diferente de acompañar los espaguetis y que está exquisita. Además, cuenta con un gran valor nutricional y es bastante saludable.
+    </string>
+    <string name="comida18_day">Dia 18</string>
+    <string name="comida19">Berenjenas rellenas</string>
+    <string name="comida19_description">
+        Seguro que en más de una ocasión has preparado berenjenas rellenas. Un clásico son las de carne y verduras, aunque nada le tienen que envidiar a esta receta de berenjenas rellenas de queso.
+    </string>
+    <string name="comida19_day">Dia 19</string>
+    <string name="comida20">Fabada asturiana</string>
+    <string name="comida20_description">
+         La fabada es uno de los platos más famosos dentro de la gastronomía española, y a pesar de ser un plato de cuchara y contundente, entra en cualquier época del año. Además, es perfecta para congelar, por lo que puedes meterla en un tupper y disfrutarla en el trabajo.
+    </string>
+    <string name="comida20_day">Dia 20</string>
+
+
+
+    <string name="comida21">Pastel de espárragos blancos</string>
+    <string name="comida21_description">
+        Como el pastel de merluza, otra muy buena opción esta receta de pastel de espárragos blancos. Rica, suave y saludable, ¿qué más quieres?.
+    </string>
+    <string name="comida21_day">Dia 21</string>
+    <string name="comida22">Ensalada de pasta</string>
+    <string name="comida22_description">
+        Un clásico en las oficinas es las ensaladas de pasta. Le puedes añadir lo que quieras, desde atún o pollo, hasta aceitunas, maíz o infinidad de ingredientes más.
+    </string>
+    <string name="comida22_day">Dia 22</string>
+    <string name="comida23">Tortilla de patata</string>
+    <string name="comida23_description">
+        Donde hay cena familiar o reunión de amigos, también hay tortilla de patata. Es la receta predilecta de nuestra gastronomía, pero ¿con cebolla o sin cebolla? Eso lo dejo a tu elección.
+    </string>
+    <string name="comida23_day">Dia 23</string>
+    <string name="comida24">Marmitako</string>
+    <string name="comida24_description">
+        Este espectacular guiso marinero está hecho con patatas y bonito, dos ingredientes que juntos crean una combinación brutal. Lo bueno de este tipo de guisos es que se pueden congelar sin que ningún ingrediente pierda las propiedades.
+    </string>
+    <string name="comida24_day">Dia 24</string>
+    <string name="comida25">Ensalada de patata y garbanzos</string>
+    <string name="comida25_description">
+         Se trata de una ensalada fresca y altamente nutritiva, sin embargo, lo más original de la ensalada es la vinagreta de curry, que le aporta un sabor más exótico y singular. No dudes en preparla.
+    </string>
+    <string name="comida25_day">Dia 25</string>
+    <string name="comida26">Alitas de pollo asadas</string>
+    <string name="comida26_description">
+        La quiché se puede rellenar de prácticamente cualquier cosa, aunque las más famosas son las de carne y verduras. Nosotros presentamos un relleno hecho con verduras como espinacas, puerros o zanahorias, y con un toque especial, un poco de queso. Toma nota de como hacerlo.
+    </string>
+    <string name="comida26_day">Dia 26</string>
+    <string name="comida27">Salmón a la plancha con verdura</string>
+    <string name="comida27_description">
+        Qué mejor que un salmón a la plancha acompañado de unas verduritas o una patata cocida. Es un plato muy equilibrado y altamente saludable perfecto para comidad ligeras.
+    </string>
+    <string name="comida27_day">Dia 27</string>
+    <string name="comida28">Migas manchegas</string>
+    <string name="comida28_description">
+        Si te ha sobrado pan del día anterior, lo mejor que puedes hacer con él son unas ricas migas, con su chorizo, panceta y pimiento choricero.
+    </string>
+    <string name="comida28_day">Dia 28</string>
+    <string name="comida29">Salteado de verduras con huevo</string>
+    <string name="comida29_description">
+        Otra opción es un rico salteado, en este caso de verduras, que se coronan con un rico huevo al plato. Se trata de una rica receta y muy saludable.
+    </string>
+    <string name="comida29_day">Dia 29</string>
+    <string name="comida30">Pastel de patata con carne picada</string>
+    <string name="comida30_description">
+         Como si fuera una especie de lasaña, este pastel de patata es muy versátil, pues lo puedes rellenar de prácticamente cualquier cosa. En este caso, proponemos un relleno clásico de carne picada y tomate.
+    </string>
+    <string name="comida30_day">Dia 30</string>
+</resources>
